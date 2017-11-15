@@ -110,8 +110,8 @@ p {
 
 @media(max-width:768px) {
     .navbar img{
-        height: 20%;
-        width: 20%;
+        height: 75px;
+        width: 75px;
         position: relative;
         vertical-align: center;
     }
