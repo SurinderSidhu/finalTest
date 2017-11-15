@@ -116,9 +116,7 @@ p {
         vertical-align: center;
     }
 
-    .navbar button{
-        margin-top:10%;
-    }
+ 
     }
 
 /*HEADER*/
@@ -195,7 +193,7 @@ p {
         
         width: 60%;
         height: 120px;
-        margin: 15px 0 10px 15px;
+        margin: 15px 15px 10px 15px;
         text-align: center;
     } 
     
