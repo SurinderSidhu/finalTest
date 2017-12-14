@@ -115,7 +115,6 @@ p {
         position: relative;
         vertical-align: center;
     }
-
  
     }
 
@@ -166,8 +165,8 @@ p {
 
 .header p{
 
-    font-size: 16px;
-    font-weight: 200;    
+    font-size: 18px;
+    font-weight: 300;    
     margin-top: 50px;
     -webkit-text-shadow: 0 0 8px rgba(0, 0, 0, 0.2), 0 0 8px rgba(0, 0, 0, 0.19);
     -moz-text-shadow: 0 0 8px rgba(0, 0, 0, 0.2), 0 0 8px rgba(0, 0, 0, 0.19);
@@ -194,12 +193,12 @@ p {
         width: 60%;
         height: 120px;
         margin: 15px 15px 10px 15px;
-        text-align: center;
+        align-content: center;
     } 
     
     .header h1 {
         
-        font-size: 16px;
+        font-size: 20px;
         text-align: center;
     }
     
@@ -231,7 +230,7 @@ p {
 .services p {
     
     color: #eb2336;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 200;
     padding-bottom: 40px;
 }
@@ -241,7 +240,7 @@ p {
     
     height: 80px;
     width: 80px;
-    font-size: 30px;
+    font-size: 32px;
     color: #fff;
 }
 
@@ -260,6 +259,13 @@ p {
     .services {
         
         padding: 30px;
+    }
+
+    .services h2{
+
+    color: #eb2336;
+    margin: 20px 0 20px;
+    font-size: 20px;
     }
 
     .services img {
